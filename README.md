@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @merdgg
 - 👀 I’m interested in mading websites and games
 - 🌱 I’m currently learning unity or unreal engine
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @legendamerd --- my inst
 
 <!---
